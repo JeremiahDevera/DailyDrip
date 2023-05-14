@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="register">Register</string>
+    <string name="email">email</string>
+    <string name="click_to_login">click to login</string>
+    <string name="registerq">register</string>
+    <string name="password">password</string>
+    <string name="click_to_register">click to register</string>
+    <string name="login">login</string>
+    <string name="password1">password</string>
+    <string name="email1">email</string>
+    <string name="login1">login</string>
+    <string name="logout">logout</string>
+    <string name="dailydrip">DailyDrip</string>
+    <string name="welcome">Welcome</string>
+</resources>
